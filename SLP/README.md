@@ -10,7 +10,7 @@ f(x) = 2*x + 2
 ## What’s inside
 
 - All the steps of **forward propagation** and **backpropagation** are explicitly written out, so you can see exactly how the neuron learns.
-- We train the neuron using a simple dataset and watch how it adjusts its weights and bias.
+- We train the neuron using a simple dataset based on the target function and watch how it adjusts its weights and bias.
 
 ## Visualizations
 
